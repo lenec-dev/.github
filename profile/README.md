@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://github.com/lenec-dev/.github-private/assets/119779337/2a3dcda4-44e3-41cf-bd18-00f4fd482f34" align="center" width="150">
+<div align="center"><img src="[https://github.com/lenec-dev/.github-private/assets/119779337/2a3dcda4-44e3-41cf-bd18-00f4fd482f34](https://github.com/lenec-dev/.github/assets/119779337/61a33a40-341a-4c29-a77b-626ce9b3aaf8)" align="center" width="150">
 
 <h1 align="center">✨ Lenec Developers 🤓</h1>
 
