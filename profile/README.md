@@ -1,7 +1,7 @@
 
 <div align="center"><img src="[https://github.com/lenec-dev/.github-private/assets/119779337/2a3dcda4-44e3-41cf-bd18-00f4fd482f34](https://github.com/lenec-dev/.github/assets/119779337/61a33a40-341a-4c29-a77b-626ce9b3aaf8)" align="center" width="150">
 
-<h1 align="center">✨ Lenec Developers 🤓</h1>
+<h1 align="center">🤓 Lenec Developers </h1>
 
 
 <strong>Lenec Developers</strong> is a team of devs from Moscow that are aiming to make special websites and platforms to make it easier to control different events.
@@ -18,11 +18,8 @@
 
 <br>
 <div align="center">
-<h2>Our Latest Projects</h2>
 
-  <a href="https://github.com/lenec-dev/sconf"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/lenec-dev/sconf.png" width="460px"></a>
-</div>
-
-## Our Stats
+## ✨ Our Stats ✨
 <div align="center" ><img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></div>
 
+</div>
