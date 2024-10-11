@@ -4,7 +4,7 @@
 <h1 align="center">🤓 Sconf Developers </h1>
 
 
-<strong>Lenec Developers</strong> is a team of devs from Moscow that are aiming to make special websites and platforms to make it easier to control different events.
+<strong>Sconf Developers</strong> is a team of devs from Moscow that are aiming to make special websites and platforms to make it easier to control different events.
 </div>
 
 <br>
